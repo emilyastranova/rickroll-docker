@@ -17,7 +17,7 @@ This project is a simple demonstration of how to create a Docker container that 
 
 3. ```bash
    cd rickroll-docker
-   docker-compose up
+   docker-compose up -d
    ```
 
 4. Access the redirect by opening `http://localhost` in your web browser
