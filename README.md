@@ -12,7 +12,7 @@ This project is a simple demonstration of how to create a Docker container that 
 1. Clone the repository
 
 2. ```bash
-   git clone https://github.com/tyleraharrison/rickroll-docker.git
+   git clone https://github.com/emilyastranova/rickroll-docker.git
    ```
 
 3. ```bash
